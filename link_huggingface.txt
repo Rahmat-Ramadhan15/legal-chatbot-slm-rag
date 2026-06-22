@@ -1,1 +1,1 @@
-
+https://huggingface.co/Rahmat15/qwen2.5-3b-indonesian-legal
