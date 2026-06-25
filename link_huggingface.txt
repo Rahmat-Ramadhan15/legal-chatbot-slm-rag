@@ -1,1 +1,2 @@
-https://huggingface.co/Rahmat15/qwen2.5-3b-indonesian-legal
+Fine tuning model: https://huggingface.co/Rahmat15/qwen2.5-3b-indonesian-legal
+GRPO Model: https://huggingface.co/Rahmat15/qwen2.5-3b-indonesian-legal-grpo
